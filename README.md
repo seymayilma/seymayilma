@@ -9,8 +9,3 @@ Personal Information
 - I am currently learning how to build Node Js and React-Native.
 - If you want to reach me, send an e-mail to [seymaymaz@gmail.com](mailto:seymaymaz8@gmail.com) or [LinkedIn](https://www.linkedin.com/in/seymaymaz/)
 
-<hr>
-<p align=center>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Mstfakts&count_private=true&show_icons=true&theme=dark">
-</p>
-<hr>
