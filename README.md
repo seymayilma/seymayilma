@@ -1,4 +1,4 @@
-# seymayilmaz
+# seymayilma
 Personal Information
 
 <h3 align="center">Hi there, I'm Şeyma Yılmaz 👋</h3>
